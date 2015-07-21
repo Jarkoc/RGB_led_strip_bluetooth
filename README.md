@@ -1,9 +1,6 @@
 # RGB_led_strip_bluetooth
 ArduDroid: A Simple 2-Way Bluetooth-based Android Controller for Arduino RGB led strip
 
-Picture of ArduDroid: A Simple 2-Way Bluetooth-based Android Controller for Arduino RGB led strip
-20150213_180120.jpg
-9848991.png
 INTRODUCTION
 
 GET IT ON google PLAY "ardudroid" app
